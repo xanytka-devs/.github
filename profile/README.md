@@ -8,16 +8,25 @@
   <h3>XEngine 🔥</h3>
   <p>Понятный, кроссплатформенный и полностью настраиваемый движок для создания игр и программ.</p>
   <p>
-    <a href="https://github.com/XanytkaDevs/XEngine">Репозиторий</a>
+    <a href="https://github.com/xanytka-devs/xengine">Репозиторий</a>
     |
-    <a href="https://xanytka.ru/XEngine">Доступ</a>
+    <a href="https://xanytka.ru/xengine">Доступ</a>
+  </p>
+</li>
+<li>
+  <h3>XEditor 🛠</h3>
+  <p>Редактор среды XEngine.</p>
+  <p>
+    <a href="https://github.com/xanytka-devs/xeditor">Репозиторий</a>
+    |
+    <a href="https://xanytka.ru/xeditor">Доступ</a>
   </p>
 </li>
 <li>
   <h3>XGLauncher 🏛</h3>
   <p>Лаунчер нового поколения.</p>
   <p>
-    <a href="https://github.com/XanytkaDevs/XGlauncher">Репозиторий</a>
+    <a href="https://github.com/xanytka-devs/xglauncher">Репозиторий</a>
     |
     <a href="https://xgl.xanytka.ru/">Доступ</a>
   </p>
