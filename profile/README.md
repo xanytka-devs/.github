@@ -5,21 +5,21 @@
 <h2 align="center">Наши основные проекты</h2>
 <ul>
 <li>
-  <h3>XEngine 🔥</h3>
+  <h3>Firesteel 🔥</h3>
   <p>Понятный, кроссплатформенный и полностью настраиваемый движок для создания игр и программ.</p>
   <p>
-    <a href="https://github.com/xanytka-devs/xengine">Репозиторий</a>
+    <a href="https://github.com/xanytka-devs/firesteel">Репозиторий</a>
     |
-    <a href="https://xanytka.ru/xengine">Доступ</a>
+    <a href="https://xanytka.ru/firesteel">Доступ</a>
   </p>
 </li>
 <li>
-  <h3>XEditor 🛠</h3>
+  <h3>FS Editor 🛠</h3>
   <p>Редактор среды XEngine.</p>
   <p>
-    <a href="https://github.com/xanytka-devs/xeditor">Репозиторий</a>
+    <a href="https://github.com/xanytka-devs/fs-editor">Репозиторий</a>
     |
-    <a href="https://xanytka.ru/xeditor">Доступ</a>
+    <a href="https://xanytka.ru/fs-editor">Доступ</a>
   </p>
 </li>
 <li>
