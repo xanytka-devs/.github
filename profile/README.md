@@ -15,7 +15,7 @@
 </li>
 <li>
   <h3>FS Editor 🛠</h3>
-  <p>Редактор среды XEngine.</p>
+  <p>Редактор среды Firesteel.</p>
   <p>
     <a href="https://github.com/xanytka-devs/fs-editor">Репозиторий</a>
     |
